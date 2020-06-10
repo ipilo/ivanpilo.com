@@ -98,12 +98,7 @@ Bold: 700
  }
 
 
-@media only screen and (max-width: 600px) {
-.title{
-  
-  transform:scale(0.8);
-}
-}
+
 
 
 .push {
@@ -437,6 +432,26 @@ td{
 .linkedin:hover,.behance:hover,.dribbble:hover{
   transform:scale(1.04);
   box-shadow: 0 2px 32px 0 rgba(25, 25, 25, 0.16);
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+.title{
+    font-size: 24px;
+    font-weight: 300;
+    text-align: center;
+ }
+
+ .hero-images{
+  transform:scale(0);
+
+    margin-top:0px;
+    margin-bottom:-500px;
+  
+ }
+
 }
 
 
