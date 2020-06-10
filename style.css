@@ -433,6 +433,9 @@ td{
 }
 
 
+/***********************************************************************
+ *  Breakpoints
+ **********************************************************************/
 
 
 @media only screen and (max-width: 600px) {
@@ -485,9 +488,23 @@ td{
 }
 
 .description-body{
-  width: 100px;
-  /*margin-top: 56px;*/
+  width: 300px;
   margin-left:24px;
+}
+
+.grid-wrapper {
+    
+    margin-top: 32px;
+}
+
+.more-links{
+  
+  margin: 32px 0px 24px 0px;
+  }
+
+.legal{
+  
+  margin-bottom: 64px;
 }
 
 }
