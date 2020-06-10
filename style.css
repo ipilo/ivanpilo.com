@@ -98,13 +98,13 @@ Bold: 700
  }
 
 
-/*@media only screen and (max-width: 600px) {
-    .main-nav {
-        font-size: 0.5em;
-        padding: 0;
-    }
+@media only screen and (max-width: 600px) {
+.title{
+  
+  transform:scale(0.8);
 }
-*/
+}
+
 
 .push {
     margin-left: auto;
@@ -157,7 +157,6 @@ a:hover{
  **********************************************************************/
 
 section{
-
     /*height: 70vh; */
     display: flex;
     margin-top: 90px;
@@ -190,7 +189,6 @@ section{
     margin-right: auto;
     margin-top:100px;
     margin-bottom:136px;
-
 }
 
 /*Animations*/
@@ -237,12 +235,9 @@ section{
 }
 
 
-
 /***********************************************************************
  *  Grid Panel
  **********************************************************************/
-
-
 
 .grid-wrapper {
     display: grid;
@@ -251,12 +246,11 @@ section{
     width: auto;
     margin-left: 12px;
     margin-right: 12px;
-    margin-top: 58px;*/
+    margin-top: 58px;
 }
 
 .box {
-  margin: 12px;
-
+  margin: 12px 12px 32px 12px;
 }
 
 .box > img {
