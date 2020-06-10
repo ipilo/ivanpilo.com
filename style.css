@@ -442,15 +442,31 @@ td{
 .title{
     font-size: 24px;
   }
+.hero-images{
+  visibility: hidden;
+  margin: -280px;
+}
+.grid-wrapper {
+    margin-top: 32px;
+}
 
- /*.hero-images{
-  transform:scale(0);
+.background{
+  margin-top: -252px;
+}
 
-    margin-top:0px;
-    margin-bottom:-5  00px;
+
+
+.more-links{
   
- }
-*/
+  margin: 32px 0px 24px 0px;
+  }
+
+.legal{
+  margin-bottom: 64px;
+}
+
+
+
 .description-box{
   width: 300px;
   margin-top: 90px;
@@ -492,20 +508,7 @@ td{
   margin-left:24px;
 }
 
-.grid-wrapper {
-    
-    margin-top: 32px;
-}
 
-.more-links{
-  
-  margin: 32px 0px 24px 0px;
-  }
-
-.legal{
-  
-  margin-bottom: 64px;
-}
 
 }
 
