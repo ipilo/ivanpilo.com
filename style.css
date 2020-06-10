@@ -351,8 +351,6 @@ td{
   width: 468px;
   margin-top: 56px;
   margin-left:24px;
-
-
 }
 
 
@@ -440,17 +438,59 @@ td{
 @media only screen and (max-width: 600px) {
 .title{
     font-size: 24px;
-    font-weight: 300;
-    text-align: center;
- }
+  }
 
- .hero-images{
+ /*.hero-images{
   transform:scale(0);
 
     margin-top:0px;
-    margin-bottom:-500px;
+    margin-bottom:-5  00px;
   
  }
+*/
+.description-box{
+  width: 275px;
+  margin-top: 90px;
+  margin-left:24px;
+  margin-right:24px;
+}
+
+.project-title{
+  margin-top: -20px;
+  text-align: left;
+}
+
+.project-description{
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+
+
+.description-table{
+  margin: 32px 0px 64px 24px;
+  width: 300;
+
+
+}
+
+th{
+  font-size: 16px;
+  font-weight: 500;
+  width: 150px;
+}
+
+td{
+  font-size: 16px;
+  font-weight: 300;
+  vertical-align: top;
+}
+
+.description-body{
+  width: 00px;
+  margin-top: 56px;
+  margin-left:24px;
+}
 
 }
 
