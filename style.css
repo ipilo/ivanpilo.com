@@ -449,15 +449,13 @@ td{
  }
 */
 .description-box{
-  width: 275px;
+  width: 300px;
   margin-top: 90px;
   margin-left:24px;
   margin-right:24px;
 }
-
 .project-title{
   margin-top: -20px;
-  text-align: left;
 }
 
 .project-description{
@@ -487,8 +485,8 @@ td{
 }
 
 .description-body{
-  width: 00px;
-  margin-top: 56px;
+  width: 100px;
+  /*margin-top: 56px;*/
   margin-left:24px;
 }
 
