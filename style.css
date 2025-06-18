@@ -10,7 +10,7 @@ h2{
   font-size: 24px;
   font-weight: 500;
   text-align: center;
-  color: #191919;
+  color: #FFFFFF;
 }
 
 h3{
@@ -20,7 +20,7 @@ h3{
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  color: #191919;
+  color: #FFFFFF;
 }
 
 p{
@@ -30,7 +30,7 @@ p{
   font-style: normal;
   line-height: 1.44;
   letter-spacing: normal;
-  color: #191919;
+  color: #FFFFFF;
   text-align: left;
 }
 
@@ -65,7 +65,7 @@ ul{
 }
 
 .bk{
-      background-color: white;
+      background-color: black;
 
 }
 
@@ -109,7 +109,7 @@ Bold: 700
 }
 
 a {
-    color: #191919;
+    color: #FFFFFF;
     text-decoration: none;
     font-weight: 500;
 }
@@ -130,7 +130,7 @@ a:hover{
 }
 
 .logo:hover{
-    color:#191919;
+    color:#FFFFFF;
 
 }
 
@@ -266,7 +266,7 @@ section{
 .project-name{
   font-size: 16px;
   font-weight: 500;
-  color: #191919;
+  color: #FFFFFF;
   text-align: left;
   margin-top: 24px;
 }
@@ -274,7 +274,7 @@ section{
 .project-type{
   font-size: 16px;
   font-weight: 300;
-  color: #191919;
+  color: #FFFFFF;
   text-align: left;
   margin-top: -5px;
   
