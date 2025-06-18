@@ -1,7 +1,7 @@
 body {
     margin: 0 auto;
     font-family: 'Roboto', sans-serif;
-    background-color: #191919
+    background-color: #EAF0F6
     
 }    
 
@@ -10,7 +10,7 @@ h2{
   font-size: 24px;
   font-weight: 500;
   text-align: center;
-  color: #FFFFFF;
+  color: #191919;
 }
 
 h3{
@@ -20,7 +20,7 @@ h3{
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  color: #FFFFFF;
+  color: #191919;
 }
 
 p{
@@ -30,7 +30,7 @@ p{
   font-style: normal;
   line-height: 1.44;
   letter-spacing: normal;
-  color: #FFFFFF;
+  color: #191919;
   text-align: left;
 }
 
@@ -65,7 +65,7 @@ ul{
 }
 
 .bk{
-      background-color: black;
+      background-color: white;
 
 }
 
@@ -109,7 +109,7 @@ Bold: 700
 }
 
 a {
-    color: #FFFFFF;
+    color: #191919;
     text-decoration: none;
     font-weight: 500;
 }
@@ -130,7 +130,7 @@ a:hover{
 }
 
 .logo:hover{
-    color:#FFFFFF;
+    color:#191919;
 
 }
 
@@ -166,7 +166,6 @@ section{
     font-size: 40px;
     font-weight: 300;
     text-align: center;
-    color: #FFFFFF;
 
 }
 
@@ -267,7 +266,7 @@ section{
 .project-name{
   font-size: 16px;
   font-weight: 500;
-  color: #FFFFFF;
+  color: #191919;
   text-align: left;
   margin-top: 24px;
 }
@@ -275,7 +274,7 @@ section{
 .project-type{
   font-size: 16px;
   font-weight: 300;
-  color: #FFFFFF;
+  color: #191919;
   text-align: left;
   margin-top: -5px;
   
