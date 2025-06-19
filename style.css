@@ -99,7 +99,7 @@ Bold: 700
     display: flex;
     list-style: none;
     font-size: 15px;
-    margin:52px 24px 0px 24px;
+    margin:52px px 0px px;
     padding: 0px;
  }
 
@@ -373,8 +373,8 @@ td{
  **********************************************************************/
 
 .project-ul{
-  margin-right:0px;
-  padding-inline-start: 0px;
+  margin-right: 24px;
+  padding-inline-start: 24px;
 }
 
 .project-img.animate__animated.animate__fadeInUp {
@@ -382,8 +382,8 @@ td{
 }
 
 .project-img {
-  /**margin-left: auto;
-  margin-right: auto;*/
+  *margin-left: auto;
+  margin-right: auto;
   display: block;
   max-width: 100%;
   width: 1920px;
