@@ -374,7 +374,7 @@ td{
 
 .project-ul{
   margin-right:0px;
-  padding-inline-start: 24px;
+  padding-inline-start: 0px;
 }
 
 .project-img.animate__animated.animate__fadeInUp {
@@ -382,8 +382,8 @@ td{
 }
 
 .project-img {
-  margin-left: auto;
-  margin-right: auto;
+  /**margin-left: auto;
+  margin-right: auto;*/
   display: block;
   max-width: 100%;
   width: 1920px;
